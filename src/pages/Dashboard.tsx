@@ -6,14 +6,14 @@ export default function Dashboard() {
   const upcomingClasses = [
     {
       id: 1,
-      subject: 'Advanced Mathematics',
+      subject: 'Advanced English',
       time: '09:00 AM',
       instructor: 'Dr. Smith',
       platform: 'Zoom',
     },
     {
       id: 2,
-      subject: 'Physics Lab',
+      subject: 'Grammar 101',
       time: '11:30 AM',
       instructor: 'Prof. Johnson',
       platform: 'Teams',
